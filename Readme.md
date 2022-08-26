@@ -1,6 +1,6 @@
 ![image](https://img.shields.io/badge/project-13-red)
 
-## Project-13  [live Link](https://saas-page-design.netlify.app/)
+## Project-13  [live Link](https://html-project-13.netlify.app/)
 
 **Name:** Rajit kumar
 
@@ -15,4 +15,4 @@
 
 ![image](https://img.shields.io/badge/Full%20stack%20JS%20bootcamp-Hitesh%20Chaudhary-lightgrey)
 
-![image](https://github.com/Rajit909/Html-project-13/13.png)
+![image](https://github.com/Rajit909/Html-project-13/blob/main/13.png)
