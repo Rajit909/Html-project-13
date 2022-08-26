@@ -356,8 +356,9 @@ p{
     
     .cards{
         display: flex;
+        flex-wrap: wrap;
         justify-content: center;
-        gap: 5px;
+        gap: 45px;
     }
     
     .card{
@@ -390,5 +391,37 @@ p{
     
     .card-img>img{
         height: 30px;
+    }
+}
+
+@media only screen and (max-width:750px) {
+    nav{
+        justify-content: space-between;
+    }
+    .nav-li{
+        display: none;
+    }
+    .hero{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .hero-right img{
+        height: auto;
+    }
+    .hero-left{
+        width: auto;
+    }
+    .hero-left h1{
+        font-size: 2.5rem;
+    }
+    .section-1{
+        flex-direction: column;
+    }
+    .section-1 img{
+        height: auto;
+    }
+    .sec-1-right{
+        width: auto;
+        padding: 10px
     }
 }
